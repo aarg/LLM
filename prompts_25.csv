@@ -1,0 +1,29 @@
+Explain,Explain finetuning
+Factual Accuracy,"Summarize the plot of the movie ""The Shawshank Redemption"""
+Factual Accuracy,What are the three branches of the United States government and their main functions?
+Reasoning Ability,"You have two coins: one always lands heads, the other always lands tails. You flip both and get tails. Which coin did you flip twice?"
+Reasoning Ability,A train is traveling at 60 mph and passes a station 1000 meters long in 10 seconds. What is the length of the train?
+Reasoning Ability,John is taller than Mary and Mary is taller than Bob. Who is the shortest?
+Creativity,Write a poem about a robot falling in love with a human.
+Creativity,Compose a song in the style of a specific artist like Taylor Swift or Queen.
+Creativity,Design a new invention that solves a specific problemlike world hunger or climate change.
+Open-ended Prompting,You wake up in a strange forest with no memory of how you got there. What do you do?
+Open-ended Prompting,"If animals could talk, what would they say?"
+Open-ended Prompting,What is the meaning of life?
+Language Understanding,Please explain the concept of gravitational waves in simple terms.
+Text Generation,Write a short story about a time-traveling detective solving a murder mystery.
+Text Completion,"Complete the following sentence: 'In a galaxy far, far away, there lived a ________.'"
+Question Answering,What is the capital of France?
+Summarization,Summarize the key points of the article 'Climate Change and Its Impacts on Biodiversity.'
+Dialogue and Conversation,Engage in a conversation with the model about your favorite hobby.
+Dialogue and Conversation,"The following is a conversation with an AI research assistant. The assistant tone is technical and scientific.
+Human: Hello, who are you?
+AI: Greeting! I am an AI research assistant. How can I help you today?
+Human: Can you tell me about the creation of blackholes?
+AI:"
+Opinion Generation,What are your thoughts on the future of artificial intelligence?
+Translation,Translate the following sentence from English to French: 'The quick brown fox jumps over the lazy dog.'
+Coding Problem,Write a function that takes a list of numbers and returns the sum of all even numbers in the list.
+Coding Problem,Write a Python function to calculate the factorial of a given number.
+Math,"What is the square root of 169 multiplied by 3, divided by 2?"
+Math,"Do the odd numbers in this group add up to an even number: 15, 32, 5, 13, 82, 7, 1?"
