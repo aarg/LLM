@@ -17,3 +17,9 @@ This directory explores the inference capabilities of LLMs, focusing on text gen
 * **Evaluating inference performance on specific hardware:** This experiment measures metrics such as total inference time, time to first token, and tokens per second on different hardware platforms (PC, Colab, etc.).
 
 The experiment uses a standard set of prompts for all models and employs consistent code across different hardware platforms. The results consist of both subjective evaluations for each model and objective performance metrics for each hardware they were run on. Further analysis of these results is planned for future work.
+
+
+**3. RAG Experiments**
+
+Continuing on journey to explore applications using open source LLMs, this section focuses on RAG.
+Using local LLMs and querying your own data is a fascinating field, offering the potential for building your personal LLM. This repository focuses on implementing Retrieval-Augmented Generation (RAG) techniquesand  can significantly improve the accuracy and reliability of the LLM's outputs on your own personal data. 
