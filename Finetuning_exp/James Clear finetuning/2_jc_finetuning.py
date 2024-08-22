@@ -185,7 +185,7 @@ def perform_inference(model, tokenizer, prompt):
     model.eval()
     with torch.no_grad():
         start_time = time.time()
-        outputs = model.generate(**model_input, max_new_tokens=300, do_sample=True, temperature=0.7)
+        outputs = model.generate(**model_input, max_new_tokens=300, repetition_penalty=1.5, do_sample=True, temperature=0.7)
         end_time = time.time()
         print(f"Inference time: {end_time - start_time:.2f} seconds")
         return tokenizer.decode(outputs[0], skip_special_tokens=True)
