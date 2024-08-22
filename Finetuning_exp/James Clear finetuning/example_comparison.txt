@@ -1,0 +1,18 @@
+eval_prompt = "Question:What kind of daily habits will help me succeed?"
+
+###########
+Inference before fine-tuning:
+Question:What kind of daily habits will help me succeed?
+Answer:
+1. Wake up early and go to bed at a reasonable time every day.
+2.Set goals for yourself each morning before starting your workday, then review those same ones in the evening when you’re done with all tasks related thereto; this helps keep focus throughout entire course! 3.Be consistent about taking breaks during task completion (e.g., take lunch break), but also be disciplined enough not let distractions get ahead schedule – especially social media use which can quickly derail progress towards desired outcomes without proper management thereof…
+
+###########
+ Fine-tuned Model Output:
+Question:What kind of daily habits will help me succeed? How can I stay motivated to maintain these practices?
+
+Daily routines are important for success. The key is finding a routine that works best with your lifestyle and schedule, as everyone has different needs when it comes to time management.
+
+Some people prefer early mornings while others find they work better at night; some like solitude whereas other thrive on social interaction throughout the day - there's no one-size-fits-all solution here!
+
+The most effective way forward may be experimentation until you discover what feels right given individual preferences such as energy levels or desired outcomes (e.g., productivity vs relaxation). Once identified though consistency becomes crucial so try implementing new behaviors gradually over several weeks rather than attempting radical changes overnight which could lead feeling overwhelmed instead!
