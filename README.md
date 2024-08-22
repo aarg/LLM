@@ -18,6 +18,11 @@ This directory explores the inference capabilities of LLMs, focusing on text gen
 
 The experiment uses a standard set of prompts for all models and employs consistent code across different hardware platforms. The results consist of both subjective evaluations for each model and objective performance metrics for each hardware they were run on. Further analysis of these results is planned for future work.
 
+**James Clear Finetuning** is a project to train LLM to response in the voice of the "Atomic Habits" author James Clear. This is 3 step process:
+  1. Scrape James Clear website to fetch all his newsletters. 0_scrape_newsletter.py stores the newsletters in a csv format. 
+  2. Prepare the data for finetuning by: Use Gemma-2 instruction tuned model to create questions-answer pairs for each of the paragraphs in the newsletters. qa pairs are stored in james_clear_qa21.jsonl format.
+  3. Finetune the model using llama3.1-8B and using the data from the previous step. jc_finetuning.py finetunes the model and outputs the comparison of a before and after prompt.  
+
 
 **3. RAG Experiments**
 
